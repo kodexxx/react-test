@@ -1,0 +1,86 @@
+[
+    {
+        "imgSrc": "./img/portfolio-1.jpg",
+        "heading": {
+            "en": "First news",
+            "ua": "Перша новина"
+        },
+        "description": {
+            "en": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the ",
+            "ua": "Lorem Ipsum - це текст-\"риба\", що використовується в друкарстві та дизайні. Lorem Ipsum є, фактично, стандартною \"рибою\" "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-2.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-3.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-4.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-1.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-2.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    },
+    {
+        "imgSrc": "./img/portfolio-3.jpg",
+        "heading": {
+            "en": "Second news",
+            "ua": "Друга новина"
+        },
+        "description": {
+            "en": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+            "ua": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала певних змін на кшталт жартівливих вставок або змішування слів, які навіть не виглядають правдоподібно. "
+        },
+        "id": "firts-news"
+    }
+]
